@@ -3,6 +3,10 @@ Develop a RESTful API for a Personalized Workout Plan system that allows users t
 
 
 4️⃣ How to Use
+
+
+
+
 ✅ Register a User
   POST /register
   {
