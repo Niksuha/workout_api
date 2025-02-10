@@ -9,11 +9,16 @@ Develop a RESTful API for a Personalized Workout Plan system that allows users t
     "username": "john",
     "password": "123"
   }
+
+  
 ✅ Login
   POST /login
   {
     "username": "john",
     "password": "123"
   }
+
+
+  
 ✅ Get All Exercises
 GET /exercises
